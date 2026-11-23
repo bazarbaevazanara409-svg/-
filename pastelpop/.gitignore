@@ -1,0 +1,5 @@
+inbox/
+projects/*/media/
+projects/*/test/
+projects/*/*.wav
+projects/*/render.mp4
